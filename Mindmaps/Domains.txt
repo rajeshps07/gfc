@@ -1,0 +1,9 @@
+GitHub Foundations Certification:
+
+3: Collaboration Features 30%
+1: Introduction to Git and GitHub 22%
+4: Modern Development 13%
+6: Privacy, Security, and Administration 10%
+7: Benefits of the GitHub Community 10%
+2: Working with GitHub Repositories 8%
+5: Project Management 7%
