@@ -1,0 +1,62 @@
+# Features of a GitHub User Profile
+
+## 1. Profile Picture
+- A visual representation of the user, typically a photo or an avatar.
+
+## 2. Username
+- The unique identifier for the user on GitHub.
+- Often used in URLs and to mention the user in comments and issues.
+
+## 3. Bio
+- A short description or summary about the user.
+- Can include professional roles, interests, and other relevant information.
+
+## 4. Location
+- The geographical location of the user.
+
+## 5. Website/Blog
+- A link to the user’s personal or professional website, blog, or portfolio.
+
+## 6. Email
+- The user’s email address (if shared publicly).
+- Often used for contact and collaboration.
+
+## 7. Organizations
+- A list of GitHub organizations the user is a member of.
+- Shows the user’s involvement in teams and projects.
+
+## 8. Repositories
+- Lists public repositories owned by the user.
+- Provides a quick overview of the user’s projects and contributions.
+
+## 9. Pinned Repositories
+- A selection of repositories highlighted by the user.
+- Used to showcase key projects.
+
+## 10. Activity
+- Recent activity on GitHub, including commits, pull requests, and issue comments.
+- Gives insight into the user’s contributions and engagement on the platform.
+
+## 11. Contributions Calendar
+- A visual representation of the user’s contributions over the past year.
+- Shows a heatmap indicating the frequency of contributions by day.
+
+## 12. Followers and Following
+- Lists of users who follow the user and users the user is following.
+- Indicates the user’s network and influence on GitHub.
+
+## 13. Stars
+- A list of repositories the user has starred.
+- Stars are used to bookmark and show appreciation for repositories.
+
+## 14. Achievements
+- Badges earned for various activities and milestones on GitHub.
+- Recognizes contributions and engagement with the community.
+
+## 15. Sponsors
+- Information about sponsoring the user through GitHub Sponsors.
+- Allows others to financially support the user’s open source work.
+
+## 16. Gists
+- A list of the user’s public gists.
+- Gists are a way to share code snippets, notes, and more.
